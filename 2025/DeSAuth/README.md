@@ -3,15 +3,30 @@
 Los writeups de esta capeta corresponden a los CTF:
 
 ## Integrantes:
-- Camila Lorena García 12990/6
-- José Ignacio Borrajo 17949/1
-- Austin Myles Barker 19299/4
+- **Camila Lorena García -  12990/6** ❤️
+- **José Ignacio Borrajo -  17949/1** 💫
+- **Austin Myles Barker  -  19299/4**💥
 
-## Datos de las CTF:
-* Full Weak Engineer CTF (Agosto 29-31)
+# 🕵️‍♂️ Participación en CTF: Full Weak Engineer
 
-* lalala desarrollado entre tal y tal dia y que se encuentra en urldereferncia
-* (si corresponde) 2do Ctf lalala desarrollado entre tal y tal dia y que se encuentra en urldereferncia
+**🗓 Fecha:** 29 al 31 de Agosto  
+**🔗 Enlace a los desafíos:** [ctf.fwectf.com/challenges](https://ctf.fwectf.com/challenges)
 
+---
+
+## 🔐 Desafíos Resueltos
+
+### 1. REGEX-AUTH  
+- **Categoría:** Web  
+---
+
+### 2. baby-crypto  
+- **Categoría:** Crypto  
+---
+
+### 3. base🚀  
+- **Categoría:** Crypto  
+
+---
 
  
